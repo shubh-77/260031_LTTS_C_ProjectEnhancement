@@ -18,7 +18,7 @@ It provides you with quick calculation of below mentioned services:
 * Term Deposit Calculator
 * Recurring Deposit Calculator
 * Public Provident Fund Calculator
-
+* Annual Deposit Calculator(`New Feature Added`)
 
 
 
@@ -44,17 +44,18 @@ Folder             | Description
 ## Contributors List and Summary
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No of Test Cases|Test Case Pass
 ---------|-------------|----------------|----------------|---------------|-------------|--------------
-`260031` | Shubham Phansekar  | SC1, SC2, SC3, SC4, SC5, SC6, SC7| 0   | 0  | 03   | 03     
+`260031` | Shubham Phansekar  | SC1, SC2, SC3, SC4, SC5, SC6, SC7, SC8| 0   | 0  | 04   | 04     
 
 | No |Feature  |
 |--|--|
 | SC1 |Calculating the Term Deposit Maturity Amount |
 | SC2 |Calculating the Recurring Deposit Maturity Amount |
 | SC3 |Calculating the Public Provident Fund Maturity Amount |
-| SC4 |Unit Testing the code with various testcases |
-| SC5 |Building the all workflows In Git |
-| SC6 |Designing each module with readme files |
-| SC7 |Gathering all requirments and designing each phase |
+| SC4 |Calculating the Annual Deposit Maturity Amount |
+| SC5 |Unit Testing the code with various testcases |
+| SC6 |Building the all workflows In Git |
+| SC7 |Designing each module with readme files |
+| SC8 |Gathering all requirments and designing each phase |
 
 
 
